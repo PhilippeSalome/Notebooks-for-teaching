@@ -1,0 +1,10 @@
+  
+name: Notebooks-for-teaching
+
+dependencies:
+  - python=3.6.4
+  - astropy
+  - matplotlib
+  - numpy
+  - astropy
+  - scipy
